@@ -1,4 +1,6 @@
 [
+
+
 {
 		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Amoled/IMG_20230215_220625_940.jpg",
@@ -177,7 +179,7 @@
 		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Amoled/IMG_20230217_221021_411.jpg",
 		"name": "Amoled 30",
-		"collections": "SmartAnimals"
+		"collections": "Amoled"
 	},
 	{
 		"author": "Purvesh Shinde",
@@ -209,34 +211,1378 @@
 		"name": "Amoled 35",
 		"collections": "Amoled"
 	},
+
+
+
+
+
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Amoled/IMG_20230215_220626_243.jpg",
-		"name": "Amoled 36",
-		"collections": "Amoled"
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220625_940.jpg",
+		"name": "Artistic 1",
+		"collections": "Artistic"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Amoled/IMG_20230215_220626_250.jpg",
-		"name": "Amoled 37",
-		"collections": "Amoled"
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220625_970.jpg",
+		"name": "Artistic 2",
+		"collections": "Artistic"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Amoled/IMG_20230215_220626_353.jpg",
-		"name": "Amoled 38",
-		"collections": "Amoled"
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_024.jpg",
+		"name": "Artistic 3",
+		"collections": "Artistic"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Amoled/IMG_20230215_220626_381.jpg",
-		"name": "Amoled 39",
-		"collections": "Amoled"
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_118.jpg",
+		"name": "Artistic 4",
+		"collections": "Artistic"
 	},
 	{
 		"author": "Purvesh Shinde",
-		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Amoled/IMG_20230215_220626_391.jpg",
-		"name": "Amoled 40",
-		"collections": "Amoled"
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_162.jpg",
+		"name": "Artistic 5",
+		"collections": "Artistic"
 	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_243.jpg",
+		"name": "Artistic 6",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_250.jpg",
+		"name": "Artistic 7",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_353.jpg",
+		"name": "Artistic 8",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_381.jpg",
+		"name": "Artistic 9",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_391.jpg",
+		"name": "Artistic 10",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_401.jpg",
+		"name": "Artistic 11",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_459.jpg",
+		"name": "Artistic 12",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_477.jpg",
+		"name": "Artistic 13",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_544.jpg",
+		"name": "Artistic 14",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_646.jpg",
+		"name": "Artistic 15",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_724.jpg",
+		"name": "Artistic 16",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_835.jpg",
+		"name": "Artistic 17",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_877.jpg",
+		"name": "Artistic 18",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_220626_996.jpg",
+		"name": "Artistic 19",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230215_224645_751.jpg",
+		"name": "Artistic 20",
+		"collections": "Artistic"
+	},
+                 {
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230217_221020_455.jpg",
+		"name": "Artistic 21",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230217_221020_510.jpg",
+		"name": "Artistic 22",
+		"collections": "Artistic"
+	},
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220625_940.jpg",
+		"name": "Games 1",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220625_970.jpg",
+		"name": "Games 2",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_024.jpg",
+		"name": "Games 3",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_118.jpg",
+		"name": "Games 4",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_162.jpg",
+		"name": "Games 5",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_243.jpg",
+		"name": "Games 6",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_250.jpg",
+		"name": "Games 7",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_353.jpg",
+		"name": "Games 8",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_381.jpg",
+		"name": "Games 9",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_391.jpg",
+		"name": "Games 10",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_401.jpg",
+		"name": "Games 11",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_459.jpg",
+		"name": "Games 12",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_477.jpg",
+		"name": "Games 13",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_544.jpg",
+		"name": "Games 14",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_646.jpg",
+		"name": "Games 15",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_724.jpg",
+		"name": "Games 16",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_835.jpg",
+		"name": "Games 17",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_877.jpg",
+		"name": "Games 18",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_220626_996.jpg",
+		"name": "Games 19",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230215_224645_751.jpg",
+		"name": "Games 20",
+		"collections": "Games"
+	},
+                 {
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230217_221020_455.jpg",
+		"name": "Games 21",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230217_221020_510.jpg",
+		"name": "Games 22",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230217_221020_511.jpg",
+		"name": "Games 23",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230217_221020_520.jpg",
+		"name": "Games 24",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20230217_221020_585.jpg",
+		"name": "Games 25",
+		"collections": "Games"
+	},
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220625_940.jpg",
+		"name": "Gradient 1",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220625_970.jpg",
+		"name": "Gradient 2",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_024.jpg",
+		"name": "Gradient 3",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_118.jpg",
+		"name": "Gradient 4",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_162.jpg",
+		"name": "Gradient 5",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_243.jpg",
+		"name": "Gradient 6",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_250.jpg",
+		"name": "Gradient 7",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_353.jpg",
+		"name": "Gradient 8",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_381.jpg",
+		"name": "Gradient 9",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_391.jpg",
+		"name": "Gradient 10",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_401.jpg",
+		"name": "Gradient 11",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_459.jpg",
+		"name": "Gradient 12",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_477.jpg",
+		"name": "Gradient 13",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_544.jpg",
+		"name": "Gradient 14",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_646.jpg",
+		"name": "Gradient 15",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_724.jpg",
+		"name": "Gradient 16",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_835.jpg",
+		"name": "Gradient 17",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_877.jpg",
+		"name": "Gradient 18",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_996.jpg",
+		"name": "Gradient 19",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_224645_751.jpg",
+		"name": "Gradient 20",
+		"collections": "Gradient"
+	},
+                 {
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230217_221020_455.jpg",
+		"name": "Gradient 21",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230217_221020_510.jpg",
+		"name": "Gradient 22",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230217_221020_511.jpg",
+		"name": "Gradient 23",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230217_221020_520.jpg",
+		"name": "Gradient 24",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230217_221020_585.jpg",
+		"name": "Gradient 25",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230217_221020_731.jpg",
+		"name": "Gradient 26",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230217_221021_040.jpg",
+		"name": "Gradient 27",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230217_221021_271.jpg",
+		"name": "Gradient 28",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230217_221021_349.jpg",
+		"name": "Gradient 29",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230217_221021_411.jpg",
+		"name": "Gradient 30",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230217_221021_436.jpg",
+		"name": "Gradient 31",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230217_221021_763.jpg",
+		"name": "Gradient 32",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_024.jpg",
+		"name": "Gradient 33",
+		"collections": "Gradient"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Gradient/IMG_20230215_220626_118.jpg",
+		"name": "Gradient 34",
+		"collections": "Gradient"
+	},
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Miniworld/IMG_20230215_220625_940.jpg",
+		"name": "Miniworld 1",
+		"collections": "Miniworld"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Miniworld/IMG_20230215_220625_970.jpg",
+		"name": "Miniworld 2",
+		"collections": "Miniworld"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Miniworld/IMG_20230215_220626_024.jpg",
+		"name": "Miniworld 3",
+		"collections": "Miniworld"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Miniworld/IMG_20230215_220626_118.jpg",
+		"name": "Miniworld 4",
+		"collections": "Miniworld"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Miniworld/IMG_20230215_220626_162.jpg",
+		"name": "Miniworld 5",
+		"collections": "Miniworld"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Miniworld/IMG_20230215_220626_243.jpg",
+		"name": "Miniworld 6",
+		"collections": "Miniworld"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Miniworld/IMG_20230215_220626_250.jpg",
+		"name": "Miniworld 7",
+		"collections": "Miniworld"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Miniworld/IMG_20230215_220626_353.jpg",
+		"name": "Miniworld 8",
+		"collections": "Miniworld"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Miniworld/IMG_20230215_220626_381.jpg",
+		"name": "Miniworld 9",
+		"collections": "Miniworld"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Miniworld/IMG_20230215_220626_391.jpg",
+		"name": "Miniworld 10",
+		"collections": "Miniworld"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Miniworld/IMG_20230215_220626_401.jpg",
+		"name": "Miniworld 11",
+		"collections": "Miniworld"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Miniworld/IMG_20230215_220626_459.jpg",
+		"name": "Miniworld 12",
+		"collections": "Miniworld"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Miniworld/IMG_20230215_220626_477.jpg",
+		"name": "Miniworld 13",
+		"collections": "Miniworld"
+	},
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220625_940.jpg",
+		"name": "Natural 1",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220625_970.jpg",
+		"name": "Natural 2",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220626_024.jpg",
+		"name": "Natural 3",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220626_118.jpg",
+		"name": "Natural 4",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220626_162.jpg",
+		"name": "Natural 5",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220626_243.jpg",
+		"name": "Natural 6",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220626_250.jpg",
+		"name": "Natural 7",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220626_353.jpg",
+		"name": "Natural 8",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220626_381.jpg",
+		"name": "Natural 9",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220626_391.jpg",
+		"name": "Natural 10",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220626_401.jpg",
+		"name": "Natural 11",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220626_459.jpg",
+		"name": "Natural 12",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220626_477.jpg",
+		"name": "Natural 13",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220626_544.jpg",
+		"name": "Natural 14",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220626_646.jpg",
+		"name": "Natural 15",
+		"collections": "Natural"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Natural/IMG_20230215_220626_724.jpg",
+		"name": "Natural 16",
+		"collections": "Natural"
+	},
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20230215_220625_940.jpg",
+		"name": "Object 1",
+		"collections": "Object"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20230215_220625_970.jpg",
+		"name": "Object 2",
+		"collections": "Object"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20230215_220626_024.jpg",
+		"name": "Object 3",
+		"collections": "Object"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20230215_220626_118.jpg",
+		"name": "Object 4",
+		"collections": "Object"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20230215_220626_162.jpg",
+		"name": "Object 5",
+		"collections": "Object"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20230215_220626_243.jpg",
+		"name": "Object 6",
+		"collections": "Object"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20230215_220626_250.jpg",
+		"name": "Object 7",
+		"collections": "Object"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20230215_220626_353.jpg",
+		"name": "Object 8",
+		"collections": "Object"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20230215_220626_381.jpg",
+		"name": "Object 9",
+		"collections": "Object"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20230215_220626_391.jpg",
+		"name": "Object 10",
+		"collections": "Object"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20230215_220626_401.jpg",
+		"name": "Object 11",
+		"collections": "Object"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20230215_220626_459.jpg",
+		"name": "Object 12",
+		"collections": "Object"
+	},
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220625_940.jpg",
+		"name": "Scenery 1",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220625_970.jpg",
+		"name": "Scenery 2",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_024.jpg",
+		"name": "Scenery 3",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_118.jpg",
+		"name": "Scenery 4",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_162.jpg",
+		"name": "Scenery 5",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_243.jpg",
+		"name": "Scenery 6",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_250.jpg",
+		"name": "Scenery 7",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_353.jpg",
+		"name": "Scenery 8",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_381.jpg",
+		"name": "Scenery 9",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_391.jpg",
+		"name": "Scenery 10",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_401.jpg",
+		"name": "Scenery 11",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_459.jpg",
+		"name": "Scenery 12",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_477.jpg",
+		"name": "Scenery 13",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_544.jpg",
+		"name": "Scenery 14",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_646.jpg",
+		"name": "Scenery 15",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_724.jpg",
+		"name": "Scenery 16",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_835.jpg",
+		"name": "Scenery 17",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_877.jpg",
+		"name": "Scenery 18",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_996.jpg",
+		"name": "Scenery 19",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_224645_751.jpg",
+		"name": "Scenery 20",
+		"collections": "Scenery"
+	},
+                 {
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230217_221020_455.jpg",
+		"name": "Scenery 21",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230217_221020_510.jpg",
+		"name": "Scenery 22",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230217_221020_511.jpg",
+		"name": "Scenery 23",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230217_221020_520.jpg",
+		"name": "Scenery 24",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230217_221020_585.jpg",
+		"name": "Scenery 25",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230217_221020_731.jpg",
+		"name": "Scenery 26",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230217_221021_040.jpg",
+		"name": "Scenery 27",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230217_221021_271.jpg",
+		"name": "Scenery 28",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230217_221021_349.jpg",
+		"name": "Scenery 29",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230217_221021_411.jpg",
+		"name": "Scenery 30",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230217_221021_436.jpg",
+		"name": "Scenery 31",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230217_221021_763.jpg",
+		"name": "Scenery 32",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_024.jpg",
+		"name": "Scenery 33",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_118.jpg",
+		"name": "Scenery 34",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_162.jpg",
+		"name": "Scenery 35",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_243.jpg",
+		"name": "Scenery 36",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_250.jpg",
+		"name": "Scenery 37",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_353.jpg",
+		"name": "Scenery 38",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_381.jpg",
+		"name": "Scenery 39",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/IMG_20230215_220626_391.jpg",
+		"name": "Scenery 40",
+		"collections": "Scenery"
+	},
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220625_940.jpg",
+		"name": "Sky & Space 1",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220625_970.jpg",
+		"name": "Sky & Space 2",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_024.jpg",
+		"name": "Sky & Space 3",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_118.jpg",
+		"name": "Sky & Space 4",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_162.jpg",
+		"name": "Sky & Space 5",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_243.jpg",
+		"name": "Sky & Space 6",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_250.jpg",
+		"name": "Sky & Space 7",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_353.jpg",
+		"name": "Sky & Space 8",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_381.jpg",
+		"name": "Sky & Space 9",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_391.jpg",
+		"name": "Sky & Space 10",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_401.jpg",
+		"name": "Sky & Space 11",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_459.jpg",
+		"name": "Sky & Space 12",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_477.jpg",
+		"name": "Sky & Space 13",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_544.jpg",
+		"name": "Sky & Space 14",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_646.jpg",
+		"name": "Sky & Space 15",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_724.jpg",
+		"name": "Sky & Space 16",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_835.jpg",
+		"name": "Sky & Space 17",
+		"collections": "Sky & Space"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Sky & Space/IMG_20230215_220626_877.jpg",
+		"name": "Sky & Space 18",
+		"collections": "Sky & Space"
+	},
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Tech/IMG_20230215_220625_940.jpg",
+		"name": "Tech 1",
+		"collections": "Tech"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Tech/IMG_20230215_220625_970.jpg",
+		"name": "Tech 2",
+		"collections": "Tech"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Tech/IMG_20230215_220626_024.jpg",
+		"name": "Tech 3",
+		"collections": "Tech"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Tech/IMG_20230215_220626_118.jpg",
+		"name": "Tech 4",
+		"collections": "Tech"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Tech/IMG_20230215_220626_162.jpg",
+		"name": "Tech 5",
+		"collections": "Tech"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Tech/IMG_20230215_220626_243.jpg",
+		"name": "Tech 6",
+		"collections": "Tech"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Tech/IMG_20230215_220626_250.jpg",
+		"name": "Tech 7",
+		"collections": "Tech"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Tech/IMG_20230215_220626_353.jpg",
+		"name": "Tech 8",
+		"collections": "Tech"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Tech/IMG_20230215_220626_381.jpg",
+		"name": "Tech 9",
+		"collections": "Tech"
+	},
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Toys/IMG_20230215_220625_940.jpg",
+		"name": "Toys 1",
+		"collections": "Toys"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Toys/IMG_20230215_220625_970.jpg",
+		"name": "Toys 2",
+		"collections": "Toys"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Toys/IMG_20230215_220626_024.jpg",
+		"name": "Toys 3",
+		"collections": "Toys"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Toys/IMG_20230215_220626_118.jpg",
+		"name": "Toys 4",
+		"collections": "Toys"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Toys/IMG_20230215_220626_162.jpg",
+		"name": "Toys 5",
+		"collections": "Toys"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Toys/IMG_20230215_220626_243.jpg",
+		"name": "Toys 6",
+		"collections": "Toys"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Toys/IMG_20230215_220626_250.jpg",
+		"name": "Toys 7",
+		"collections": "Toys"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Toys/IMG_20230215_220626_353.jpg",
+		"name": "Toys 8",
+		"collections": "Toys"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Toys/IMG_20230215_220626_381.jpg",
+		"name": "Toys 9",
+		"collections": "Toys"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Toys/IMG_20230215_220626_391.jpg",
+		"name": "Toys 10",
+		"collections": "Toys"
+	},
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220625_940.jpg",
+		"name": "Vehicle 1",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220625_970.jpg",
+		"name": "Vehicle 2",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_024.jpg",
+		"name": "Vehicle 3",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_118.jpg",
+		"name": "Vehicle 4",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_162.jpg",
+		"name": "Vehicle 5",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_243.jpg",
+		"name": "Vehicle 6",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_250.jpg",
+		"name": "Vehicle 7",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_353.jpg",
+		"name": "Vehicle 8",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_381.jpg",
+		"name": "Vehicle 9",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_391.jpg",
+		"name": "Vehicle 10",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_401.jpg",
+		"name": "Vehicle 11",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_459.jpg",
+		"name": "Vehicle 12",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_477.jpg",
+		"name": "Vehicle 13",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_544.jpg",
+		"name": "Vehicle 14",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_646.jpg",
+		"name": "Vehicle 15",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_724.jpg",
+		"name": "Vehicle 16",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_835.jpg",
+		"name": "Vehicle 17",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_877.jpg",
+		"name": "Vehicle 18",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_220626_996.jpg",
+		"name": "Vehicle 19",
+		"collections": "Vehicle"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230215_224645_751.jpg",
+		"name": "Vehicle 20",
+		"collections": "Vehicle"
+	},
+                 {
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Vehicle/IMG_20230217_221020_455.jpg",
+		"name": "Vehicle 21",
+		"collections": "Vehicle"
+	}
+
+
   ]
