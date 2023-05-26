@@ -1,4 +1,211 @@
 [
+
+
+
+
+
+{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230524_143412_922.jpg",
+		"name": "Artistic 1",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230524_143413_566.jpg",
+		"name": "Artistic 2",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230524_143727_214.jpg",
+		"name": "Artistic 3",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230524_143727_332.jpg",
+		"name": "Artistic 4",
+		"collections": "Artistic"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Artistic/IMG_20230524_143727_492.jpg",
+		"name": "Artistic 5",
+		"collections": "Artistic"
+	},
+
+
+
+
+
+{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Emoji/1677853815750.jpg",
+		"name": "Emoji 1",
+		"collections": "Emoji"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Emoji/1677853855903.jpg",
+		"name": "Emoji 2",
+		"collections": "Emoji"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Emoji/1677853933309.jpg",
+		"name": "Emoji 3",
+		"collections": "Emoji"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Emoji/1677853963005.jpg",
+		"name": "Emoji 4",
+		"collections": "Emoji"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Emoji/1677853997491.jpg",
+		"name": "Emoji 5",
+		"collections": "Emoji"
+	},
+
+
+
+
+
+{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677853815750.jpg",
+		"name": "Scenery 1",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677853855903.jpg",
+		"name": "Scenery 2",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677853933309.jpg",
+		"name": "Scenery 3",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677853963005.jpg",
+		"name": "Scenery 4",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677853997491.jpg",
+		"name": "Scenery 5",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677854037471.jpg",
+		"name": "Scenery 6",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677854072990.jpg",
+		"name": "Scenery 7",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677854164931.jpg",
+		"name": "Scenery 8",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677854291073.jpg",
+		"name": "Scenery 9",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677854331159.jpg",
+		"name": "Scenery 10",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677854370050.jpg",
+		"name": "Scenery 11",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677854412461.jpg",
+		"name": "Scenery 12",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677854532072.jpg",
+		"name": "Scenery 13",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677854559815.jpg",
+		"name": "Scenery 14",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677854585090.jpg",
+		"name": "Scenery 15",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677854842940.jpg",
+		"name": "Scenery 16",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677854884595.jpg",
+		"name": "Scenery 17",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677855314390.jpg",
+		"name": "Scenery 18",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677855359560.jpg",
+		"name": "Scenery 19",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Scenery/1677855384965.jpg",
+		"name": "Scenery 20",
+		"collections": "Scenery"
+	},
+
+
+
+
+
+
+
+
+
+
+
+
 	{
 		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/1677852578148.jpg",
