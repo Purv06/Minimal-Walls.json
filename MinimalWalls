@@ -1,6 +1,154 @@
 [
 	{
 		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20231015_212809_105.jpg",
+		"name": "Object 13",
+		"collections": "Object"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20231015_212809_184.jpg",
+		"name": "Object 14",
+		"collections": "Object"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20231015_212809_962.jpg",
+		"name": "Object 15",
+		"collections": "Object"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/IMG_20231015_212809_999.jpg",
+		"name": "Object 16",
+		"collections": "Object"
+	},
+
+
+
+
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Emoji/IMG_20231015_212809_194.jpg",
+		"name": "Emoji 6",
+		"collections": "Emoji"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Emoji/IMG_20231015_212809_222.jpg",
+		"name": "Emoji 7",
+		"collections": "Emoji"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Emoji/IMG_20231015_212809_395.jpg",
+		"name": "Emoji 8",
+		"collections": "Emoji"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Emoji/IMG_20231015_212809_413.jpg",
+		"name": "Emoji 9",
+		"collections": "Emoji"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Emoji/IMG_20231015_212809_571.jpg",
+		"name": "Emoji 10",
+		"collections": "Emoji"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Emoji/IMG_20231015_212809_603.jpg",
+		"name": "Emoji 11",
+		"collections": "Emoji"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Emoji/IMG_20231015_212809_753.jpg",
+		"name": "Emoji 12",
+		"collections": "Emoji"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Emoji/IMG_20231015_212809_993.jpg",
+		"name": "Emoji 13",
+		"collections": "Emoji"
+	},
+
+
+
+
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20231015_212809_376.jpg",
+		"name": "Games 23",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20231015_212809_445.jpg",
+		"name": "Games 24",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20231015_212809_584.jpg",
+		"name": "Games 25",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20231015_212809_748.jpg",
+		"name": "Games 26",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20231015_212809_779.jpg",
+		"name": "Games 27",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20231015_214832_444.jpg",
+		"name": "Games 28",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20231015_214833_045.jpg",
+		"name": "Games 29",
+		"collections": "Games"
+	},
+	{
+		"author": "Purvesh Shinde",
+		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Games/IMG_20231015_214833_065.jpg",
+		"name": "Games 30",
+		"collections": "Games"
+	},
+
+
+
+
+
+
+
+
+
+
+	{
+		"author": "Purvesh Shinde",
 		"url": "https://raw.githubusercontent.com/Purv06/MinimalWalls.json/main/Object/1690799783741.jpg",
 		"name": "Object 13",
 		"collections": "Object"
